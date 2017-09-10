@@ -1,0 +1,13 @@
+{
+    "name": "webaxones/wax-restrict-text-editor-admin",
+    "description": "Restrict text editor to administrators",
+    "license": "GPL-2.0",
+    "authors": [{
+        "name": "Webaxones",
+        "email": "contact@webaxones.com"
+    }],
+    "type": "wordpress-muplugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
